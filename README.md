@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dongo-s&label=Profile%20views&color=0e75b6&style=flat" alt="dongo-s" /> </p>
 
-- Hi, I'm currently working in personals projects aside from my job :)
+- Hi, I'm currently working on porting games to consoles :)
 - Always learning how to make new things on Unity.
 - You can check my demo here [https://youtu.be/-lzXTZPmgb4](https://youtu.be/-lzXTZPmgb4)
 
