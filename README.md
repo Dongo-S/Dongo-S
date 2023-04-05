@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Javier Cañongo Morán</h1>
-<h3 align="center">An aspiring Unity Game Developer</h3>
+<h3 align="center">An Unity Game Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dongo-s&label=Profile%20views&color=0e75b6&style=flat" alt="dongo-s" /> </p>
 
 - Hi, I'm currently working on porting games to consoles :)
-- Always learning how to make new things on Unity.
+- Always learning how to make new things on Unity/Unreal.
 - You can check my demo here [https://youtu.be/-lzXTZPmgb4](https://youtu.be/-lzXTZPmgb4)
 
 
