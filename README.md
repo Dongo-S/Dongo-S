@@ -7,7 +7,7 @@
 - Always learning how to make new things on Unity/Unreal.
 - You can check my (old)demo here [https://youtu.be/-lzXTZPmgb4](https://youtu.be/-lzXTZPmgb4) as I work with very confidential projects I can't share details on them!
 
-Portfolio: https://dongo-s.github.io/
+Portfolio: https://dongos.myportfolio.com/
 
 
 <h3 align="left">Connect with me:</h3>
